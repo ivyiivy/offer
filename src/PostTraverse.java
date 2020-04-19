@@ -24,7 +24,7 @@ public class PostTraverse {
                 p=p.left;
             }
             p=s.peek();
-            if(p.right!=null&&p.right!=r){
+            if(p.right!=null&&p.right!=r){  //判断右节点是否已访问过
                 p=p.right;
             }
             else{

@@ -1,12 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fcbfdaf-be15-41a8-8be1-8c5c6c2cb23f" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="2fcbfdaf-be15-41a8-8be1-8c5c6c2cb23f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuoTai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replaceSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/BFS$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/BFS$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/BFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/CountNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/CountNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Cqueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Cqueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/FirstNotRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/FirstNotRepeatingChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/LCS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/LongestCommonSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/LongestCommonSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/MidTraverse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/MidTraverse$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/MidTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/MidTraverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/PostTraverse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PostTraverse$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/PostTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PostTraverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/PreTraverse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PreTraverse$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/PreTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PreTraverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/ReverseSentence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/TreeDepth$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/TreeDepth$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/TreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/TreeDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/backpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/backpack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/countingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/countingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/eightQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/eightQueen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/findGreatestNumberofArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/findGreatestNumberofArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/findNumbersofSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/findNumbersofSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/has_Subtree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/has_Subtree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/has_Subtree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/has_Subtree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/isAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/isAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/mergr_twoList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mergr_twoList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/mergr_twoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mergr_twoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/morethanHalfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/morethanHalfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/oneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/oneNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/quickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/quickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList_recursive$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList_recursive$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList_recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList_recursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/sample$SIZE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/sumof1_n.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/sumof1_n.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/twoQueueStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/twoQueueStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PostTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PostTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,38 +92,64 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RleGAQMxEJwBIug1VJjT5hpDrN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/java/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.sample">
-    <configuration name="sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample" />
+  <component name="RunManager" selected="Application.Tickets">
+    <configuration name="DuoTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuoTai" />
       <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoQueueStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twoQueueStack" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sample" />
+      <module name="offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tickets" />
       <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,10 +157,26 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sample" />
-        <item itemvalue="Application.twoQueueStack" />
+        <item itemvalue="Application.Tickets" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Sample" />
+        <item itemvalue="Application.DuoTai" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.013921114" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -87,11 +206,83 @@
       <workItem from="1572073087304" duration="1411000" />
       <workItem from="1572183050054" duration="1962000" />
       <workItem from="1572248232549" duration="1438000" />
+      <workItem from="1573358156401" duration="1446000" />
+      <workItem from="1584675082132" duration="20141000" />
+      <workItem from="1584878533330" duration="539000" />
+      <workItem from="1585821978972" duration="17145000" />
+      <workItem from="1586184070562" duration="597000" />
+      <workItem from="1586606115201" duration="633000" />
+      <workItem from="1586871745570" duration="12123000" />
+      <workItem from="1586938093279" duration="10000" />
+      <workItem from="1586943132817" duration="25472000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585822009021">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="262" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585822009021" />
+    <state width="1322" height="237" key="GridCell.Tab.0.bottom" timestamp="1587184258552">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="237" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
+    <state width="1322" height="237" key="GridCell.Tab.0.center" timestamp="1587184258552">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="237" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
+    <state width="1322" height="237" key="GridCell.Tab.0.left" timestamp="1587184258552">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="237" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
+    <state width="1322" height="237" key="GridCell.Tab.0.right" timestamp="1587184258552">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="237" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
+    <state width="1322" height="239" key="GridCell.Tab.1.bottom" timestamp="1587037694412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
+    <state width="1322" height="239" key="GridCell.Tab.1.center" timestamp="1587037694412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
+    <state width="1322" height="239" key="GridCell.Tab.1.left" timestamp="1587037694412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
+    <state width="1322" height="239" key="GridCell.Tab.1.right" timestamp="1587037694412">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="239" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1584675568825">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1584675568825" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1584685170333">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1584685170333" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587183159276">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587183159276" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
