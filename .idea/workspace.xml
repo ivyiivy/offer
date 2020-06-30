@@ -2,64 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcbfdaf-be15-41a8-8be1-8c5c6c2cb23f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuoTai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Single.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replaceSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConvertTreeToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteDuplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindContinuousSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetUglyNumber_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindromeSubseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LowestAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MincostTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SerializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffleCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfTwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerifySquenceOfBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/BFS$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/BFS$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/BFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/BFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/CountNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/CountNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/Cqueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Cqueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode$ListNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/FindFIrstCommonNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/FirstNotRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/FirstNotRepeatingChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree$TreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Is_BalancedTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/LCS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/LCS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/LongestCommonSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/LongestCommonSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/MidTraverse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/MidTraverse$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/MidTraverse$TreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/MidTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/MidTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/PostTraverse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PostTraverse$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/PostTraverse$TreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/PostTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PostTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/PreTraverse$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PreTraverse$TreeNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/PreTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/PreTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/ReverseSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/ReverseSentence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/TreeDepth$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/TreeDepth$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/S1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/S1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/S2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/S2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/S3$SingleHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/S3$SingleHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/S3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/S3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Sale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Sale.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Single.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Single.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/Tickets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/Tickets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/offer/TreeDepth$TreeNode.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/TreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/TreeDepth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/backpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/backpack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/countingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/countingSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/eightQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/eightQueen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/findGreatestNumberofArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/findGreatestNumberofArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/findNumbersofSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/findNumbersofSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/has_Subtree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/has_Subtree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/has_Subtree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/has_Subtree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/isAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/isAnagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/mergr_twoList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mergr_twoList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/mergr_twoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mergr_twoList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/mirror_BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/morethanHalfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/morethanHalfNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/oneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/oneNumber.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/offer/quickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/quickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reConstructBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList_recursive$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList_recursive$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/reverseList_recursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/reverseList_recursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/sample$SIZE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/sample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/sumof1_n.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/sumof1_n.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/offer/twoQueueStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/offer/twoQueueStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindFIrstCommonNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindFIrstCommonNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Is_BalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Is_BalancedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidTraverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PostTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PostTraverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PreTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PreTraverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Single.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Single.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eightQueen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eightQueen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findGreatestNumberofArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findGreatestNumberofArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +106,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -119,9 +123,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Application.Tickets">
-    <configuration name="DuoTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuoTai" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="LongestPalindromeSubseq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestPalindromeSubseq" />
       <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,22 +138,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sample" />
+    <configuration name="ShuffleCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShuffleCards" />
       <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UniquePaths" />
       <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tickets" />
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quickSort" />
       <module name="offer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tickets" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Sample" />
-        <item itemvalue="Application.DuoTai" />
+        <item itemvalue="Application.ShuffleCards" />
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.LongestPalindromeSubseq" />
+        <item itemvalue="Application.UniquePaths" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +219,35 @@
       <workItem from="1586871745570" duration="12123000" />
       <workItem from="1586938093279" duration="10000" />
       <workItem from="1586943132817" duration="25472000" />
+      <workItem from="1587266144154" duration="12000" />
+      <workItem from="1587272595832" duration="8384000" />
+      <workItem from="1587284681603" duration="595000" />
+      <workItem from="1587391491225" duration="16000" />
+      <workItem from="1587534196234" duration="4805000" />
+      <workItem from="1587724305685" duration="37873000" />
+      <workItem from="1588168778777" duration="5919000" />
+      <workItem from="1588653609587" duration="51213000" />
+      <workItem from="1589247102259" duration="2001000" />
+      <workItem from="1589252252058" duration="1933000" />
+      <workItem from="1589544148068" duration="39000" />
+      <workItem from="1589869830878" duration="2163000" />
+      <workItem from="1590058463248" duration="21247000" />
+      <workItem from="1590323297245" duration="647000" />
+      <workItem from="1590485878663" duration="5991000" />
+      <workItem from="1590734501147" duration="3119000" />
+      <workItem from="1592302216978" duration="5546000" />
+      <workItem from="1592405635541" duration="6306000" />
+      <workItem from="1592483722295" duration="4193000" />
+      <workItem from="1592737574104" duration="11000" />
+      <workItem from="1592884223568" duration="2439000" />
+      <workItem from="1593003246052" duration="5428000" />
+      <workItem from="1593081728122" duration="13000" />
+      <workItem from="1593182844358" duration="3452000" />
+      <workItem from="1593270807690" duration="1508000" />
+      <workItem from="1593340410952" duration="9000" />
+      <workItem from="1593345305104" duration="4475000" />
+      <workItem from="1593423582699" duration="1200000" />
+      <workItem from="1593443393444" duration="757000" />
     </task>
     <servers />
   </component>
@@ -239,57 +272,53 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="262" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585822009021" />
-    <state width="1322" height="237" key="GridCell.Tab.0.bottom" timestamp="1587184258552">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1592539464964">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
-    <state width="1322" height="237" key="GridCell.Tab.0.center" timestamp="1587184258552">
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1592539464964" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1593443553061">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
-    <state width="1322" height="237" key="GridCell.Tab.0.left" timestamp="1587184258552">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593443553061" />
+    <state width="1322" height="225" key="GridCell.Tab.0.bottom" timestamp="1593349742551">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
-    <state width="1322" height="237" key="GridCell.Tab.0.right" timestamp="1587184258552">
+    <state width="1322" height="225" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593349742551" />
+    <state width="1322" height="225" key="GridCell.Tab.0.center" timestamp="1593349742551">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="237" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587184258552" />
-    <state width="1322" height="239" key="GridCell.Tab.1.bottom" timestamp="1587037694412">
+    <state width="1322" height="225" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593349742551" />
+    <state width="1322" height="225" key="GridCell.Tab.0.left" timestamp="1593349742551">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="239" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
-    <state width="1322" height="239" key="GridCell.Tab.1.center" timestamp="1587037694412">
+    <state width="1322" height="225" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593349742551" />
+    <state width="1322" height="225" key="GridCell.Tab.0.right" timestamp="1593349742551">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="239" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
-    <state width="1322" height="239" key="GridCell.Tab.1.left" timestamp="1587037694412">
+    <state width="1322" height="225" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593349742551" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1593345880299">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="239" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
-    <state width="1322" height="239" key="GridCell.Tab.1.right" timestamp="1587037694412">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593345880299" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1593345880299">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="239" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587037694412" />
-    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1584675568825">
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1593345880299" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1593345880299">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1584675568825" />
-    <state x="339" y="172" key="run.anything.popup" timestamp="1584685170333">
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1593345880299" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1593345880299">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1584685170333" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587183159276">
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1593345880299" />
+    <state x="413" y="148" key="extract.method.dialog" timestamp="1592456441201">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587183159276" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="stack2" language="JAVA" />
-        <watch expression="stack2.firstElement()" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <state x="413" y="148" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1592456441201" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1593003339758">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1593003339758" />
   </component>
 </project>

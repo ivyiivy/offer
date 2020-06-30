@@ -17,7 +17,7 @@ public class PreTraverse {
         Stack<TreeNode> s=new Stack<>();
         TreeNode p=root; //工作节点
         while(p!=null||!s.isEmpty()){
-            if (p!=null){
+            while (p!=null){
                 Traverse(p);
                 s.push(p);
                 p=p.left;

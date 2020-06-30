@@ -5,6 +5,7 @@ public class eightQueen {
         if (start == 7) {
             if (!is_diagobal(array))
                 return 1;
+
             else
                 return 0;
         }

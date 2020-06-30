@@ -1,4 +1,7 @@
 public class findGreatestNumberofArray {
+    /*
+    最大连续子序列的和
+     */
     public int FindGreatestSumOfSubArray(int[] array) throws Exception {
         if (array==null)
             throw new Exception("Invalid input");

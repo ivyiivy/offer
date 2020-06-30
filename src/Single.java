@@ -1,4 +1,13 @@
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
+import java.lang.reflect.Modifier;
+import java.util.HashSet;
+
 public class Single {
+    public static void main(String[] args) {
+
+    }
 
 }
 
@@ -21,11 +30,11 @@ class S2 {
     private S2() {
     }
 
-    public static S2 getS(){
-        if (s==null){
-            synchronized(S2.class){
-                if (s==null){
-                    s=new S2();
+    public static S2 getS() {
+        if (s == null) {
+            synchronized (S2.class) {
+                if (s == null) {
+                    s = new S2();
                 }
                 return s;
             }
@@ -35,14 +44,15 @@ class S2 {
 }
 //静态内部类
 
-class S3{
-    private S3(){}
-
-    private static class SingleHolder{
-        private static S3 s=new S3();
+class S3 {
+    private S3() {
     }
 
-    public static S3 getInstance(){
+    private static class SingleHolder {
+        private static final S3 s = new S3();
+    }
+
+    public static S3 getInstance() {
         return SingleHolder.s;
     }
 }

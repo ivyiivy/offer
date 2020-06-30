@@ -1,13 +1,5 @@
 import java.util.Stack;
 public class MidTraverse {
-    public class TreeNode{
-        int val;
-        TreeNode left=null;
-        TreeNode right=null;
-        TreeNode(int val){
-            this.val=val;
-        }
-    }
     public void midTraverse(TreeNode root){
         if(root==null){
             return;
