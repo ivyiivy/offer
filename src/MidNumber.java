@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class MidNumber {
     static PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder());
-    static PriorityQueue<Integer> minHeap = new PriorityQueue<>(Integer::compareTo);
+    static PriorityQueue<Integer> minHeap = new PriorityQueue<>(Comparator.comparingInt(o -> o));
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
